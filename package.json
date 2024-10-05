@@ -4,9 +4,7 @@
   "version": "1.0.0",
   "author": "Adewale Adepoju <adewale.adepoju14@gmail.com>",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/bchiang7/v4"
-  },
+    "type": "git"  },
   "keywords": [
     "gatsby"
   ],
